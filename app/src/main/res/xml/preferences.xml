@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<EditTextPreference android:key="pref_btname" android:title="Bluetooth Device Name" android:defaultValue="ubuntu-0"></EditTextPreference>
+<EditTextPreference android:key="pref_srate" android:title="SoL Rate" android:defaultValue="20"></EditTextPreference>
+<EditTextPreference android:key="pref_calibx" android:title="Cal DX" android:defaultValue="0.0f"></EditTextPreference>
+<EditTextPreference android:key="pref_caliby" android:title="Cal DY" android:defaultValue="0.0f"></EditTextPreference>
+</PreferenceScreen>
